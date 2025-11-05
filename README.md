@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<!--
+<!---->
 
 Here are some ideas to get you started:
 
@@ -10,4 +10,4 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with running seamless molecular dynamics online (e.g.colab)
 - 📫 How to reach me: vaishnavey@gmail.com
 - 😄 Pronouns: She/Her
--->
+
